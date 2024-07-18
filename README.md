@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on IslandSimulationProject
 - 🌱 I’m currently learning **Spring Boot, Microservices**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Spring, Hibernate**
+- 👯 I’m looking to collaborate on **Business sector**
+- 💬 Ask me about **Java, Spring**
 - 📫 How to reach me **prinkos1@example.com**
 - ⚡ Fun fact **I love coffee and coding!**
 
