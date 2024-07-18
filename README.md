@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr1nkos&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 - 🔭 I’m currently working on IslandSimulationProject
