@@ -16,14 +16,6 @@
 - 📫 How to reach me **prinkos1@example.com**
 - ⚡ Fun fact **I love coffee and coding!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://github.com/your-github-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
