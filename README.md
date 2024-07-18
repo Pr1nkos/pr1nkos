@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="banner">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr1nkos)](https://github.com/Pr1nkos)
+[![Anurag's GitHub stats](https://github-stats-pr1nkos-projects.vercel.app/api?username=Pr1nkos&show_icons=true&hide_border=true)]
 
 - 🔭 I’m currently working on IslandSimulationProject
 - 🌱 I’m currently learning **Spring Boot, Microservices**
