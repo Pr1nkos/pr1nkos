@@ -7,10 +7,10 @@
 
 <img align="center" alt="Pr1nkos Github Stats" src="https://github-stats-git-main-pr1nkos-projects.vercel.app/api?username=Pr1nkos&show_icons=true&hide_border=true" />
 
-- 🔭 I’m currently working on TournamentTable
+- 🔭 I’m currently working on DigitalCabinet
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 - 👯 I’m looking to collaborate on **Business sector**
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, Spring Boot**
 - 📫 How to reach me **prinkos1@example.com**
 - ⚡ Fun fact **I love coffee and coding!**
 
