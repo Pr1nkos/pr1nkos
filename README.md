@@ -14,15 +14,15 @@
 - 📫 How to reach me **prinkos1@example.com**
 - ⚡ Fun fact **I love coffee and coding!**
 <h3 align="left">My projects:</h3>
-1. 🎓<a href="https://github.com/Pr1nkos/digital_department_cabinet_backend">DigitalCabinet (WIP)
+1. 🎓<a href="https://github.com/Pr1nkos/digital_department_cabinet_backend">DigitalCabinet (WIP)</a>
 <details>
-  <summary>More</summary>
+  <summary></summary>
     <h4>Description:</h4>
     Student or Instructor Dashboard for the Digital Faculty with Registration, Course Enrollment (for students), and Progress Tracking (for staff) with Exportable Report Data in a Convenient Table Format. Administrators Can Create and Edit Courses. In-App Messaging and Integration with Other Services Such as Assessment Will Be Added.
     <h4>Technologies:</h4>
     Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, RESTful 
 </details>
-2. 🚗<a href="https://github.com/Pr1nkos/AutoCatalogSystem">AutoCatalogSystem
+2. 🚗<a href="https://github.com/Pr1nkos/AutoCatalogSystem">AutoCatalogSystem</a>
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
@@ -30,7 +30,7 @@
     <h4>Technologies:</h4>
     Java, Servlets, Hibernate, PostgreSQL, Thymeleaf, JavaScript, Liquibase
 </details>
-3. 🌴🐾<a href="https://github.com/Pr1nkos/IslandSimulationSpringBoot">Island Simulation Application
+3. 🌴🐾<a href="https://github.com/Pr1nkos/IslandSimulationSpringBoot">Island Simulation Application</a>
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
@@ -38,7 +38,7 @@ This project is a comprehensive island simulation application developed using Sp
     <h4>Technologies:</h4>
     Java, Spring Boot, PostgreSQL, Docker, Docker compose, MVC, JavaScript
 </details>
-4. 🔐<a href="https://github.com/Pr1nkos/CryptographerGUI">CryptographerGUI
+4. 🔐<a href="https://github.com/Pr1nkos/CryptographerGUI">CryptographerGUI</a>
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
