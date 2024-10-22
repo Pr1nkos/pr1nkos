@@ -16,7 +16,7 @@
 <h3 align="left">My projects:</h3>
 1. 🎓<a href="https://github.com/Pr1nkos/digital_department_cabinet_backend">DigitalCabinet (WIP)</a>
 <details>
-  <summary></summary>
+  <summary>More</summary>
     <h4>Description:</h4>
     Student or Instructor Dashboard for the Digital Faculty with Registration, Course Enrollment (for students), and Progress Tracking (for staff) with Exportable Report Data in a Convenient Table Format. Administrators Can Create and Edit Courses. In-App Messaging and Integration with Other Services Such as Assessment Will Be Added.
     <h4>Technologies:</h4>
