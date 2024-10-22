@@ -30,7 +30,7 @@
     <h4>Technologies:</h4>
     Java, Servlets, Hibernate, PostgreSQL, Thymeleaf, JavaScript, Liquibase
 </details>
-3. 🌴🐾<a href="https://github.com/Pr1nkos/IslandSimulationSpringBoot">Island Simulation Application</a>
+3. 🌴<a href="https://github.com/Pr1nkos/IslandSimulationSpringBoot">Island Simulation Application</a>
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
