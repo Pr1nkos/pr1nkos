@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Developer from Saint Petersburg</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="banner">
+  <img src="https://github.com/Pr1nkos/pr1nkos/blob/master/header/header.gif" alt="banner">
 </p>
 
 <img align="center" alt="Pr1nkos Github Stats" src="https://github-stats-git-main-pr1nkos-projects.vercel.app/api?username=Pr1nkos&show_icons=true&hide_border=true" />
