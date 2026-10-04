@@ -14,7 +14,7 @@
 - 📫 How to reach me **prinkos1@example.com**
 - ⚡ Fun fact **I love coffee and coding!**
 <h3 align="left">My projects:</h3>
-1. 🎓<a href="https://github.com/Pr1nkos/digital_department_cabinet_backend">DigitalCabinet (WIP)</a>
+1. 🎓 DigitalCabinet (WIP, private repository)
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
@@ -30,7 +30,7 @@
     <h4>Technologies:</h4>
     Java, Servlets, Hibernate, PostgreSQL, Thymeleaf, JavaScript, Liquibase
 </details>
-3. 🌴<a href="https://github.com/Pr1nkos/IslandSimulationSpringBoot">Island Simulation Application</a>
+3. 🌴<a href="https://github.com/Pr1nkos/island-simulation">Island Simulation Application</a>
 <details>
   <summary>More</summary>
     <h4>Description:</h4>
