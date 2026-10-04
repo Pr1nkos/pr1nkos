@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 - 👯 I’m looking to collaborate on **Business sector**
 - 💬 Ask me about **Java, Spring**
-- 📫 How to reach me **prinkos1@example.com**
+- 📫 How to reach me **prinkos1@gmail.com**
 - ⚡ Fun fact **I love coffee and coding!**
 <h3 align="left">My projects:</h3>
 1. 🎓 DigitalCabinet (WIP, private repository)
